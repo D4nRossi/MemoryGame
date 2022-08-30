@@ -5,43 +5,11 @@ body{
     margin: 0;
 }
 
-.header-container{
-    background-color: rgb(68, 66, 66);
-    text-align: center;
-    padding: 3px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .jogo{
     margin-top: 2rem;
     text-align: center;
     font-weight: bold;
     margin-bottom: 5rem;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.logo{
-    width: 40px;
-    margin-left: 10px;
-    margin-right: 10px;
-    height: 40px;
-}
-
-.disc{
-    width: 50px;
-}
-
-.git{
-    height: 60px;
-    width: 60px;
-}
-
-a{
-    color: white;
-    text-decoration: none;
-    font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
